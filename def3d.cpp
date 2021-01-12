@@ -5,6 +5,7 @@
 #include "mesh3d.h"
 #include <unordered_set>
 #include <iostream>
+#include <vector>
 
 using namespace Eigen;
 using namespace std;
